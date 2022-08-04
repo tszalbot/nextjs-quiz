@@ -1,0 +1,39 @@
+[
+  {
+    "id": 0,
+    "text": "Question 1?",
+    "options": [
+      {
+        "id": 0,
+        "text": "Option 1",
+        "color": "red"
+      },
+      {
+        "id": 1,
+        "text": "Option 2",
+        "color": "green"
+      },
+      {
+        "id": 2,
+        "text": "Option 3",
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Question 2?",
+    "options": [
+      {
+        "id": 0,
+        "text": "Option 1",
+        "color": "black"
+      },
+      {
+        "id": 1,
+        "text": "Option 2",
+        "color": "white"
+      }
+    ]
+  }
+]
