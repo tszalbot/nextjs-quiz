@@ -13,10 +13,6 @@ function Prompt(props: {prompt: any}) {
 
   useEffect(() => {
     if(prompt) {
-      if(!promptQuestion) {
-        // console.log('init')
-      }
-
       // console.log('reinit')
       // setPromptState({ in: false });
       // setAnimationCallback(() => () => {
